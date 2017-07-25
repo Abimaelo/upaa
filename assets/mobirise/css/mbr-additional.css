@@ -415,8 +415,27 @@ h6,
 #msg-box3-r p {
   color: #000;
 }
+#msg-box3-r .lead P {
+  font-size: 16px;
+  color: #000000;
+}
+#msg-box2-u .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-u .mbr-section-subtitle {
+  color: #a0a0a0;
+}
 #form1-5 .form-control-label {
   color: #232323;
+}
+#msg-box2-w .mbr-section-title {
+  color: #fff;
+  text-align: left;
+}
+#msg-box2-w .mbr-section-subtitle {
+  color: #ffffff;
+  font-size: 19px;
+  text-align: left;
 }
 #social-buttons2-t .mbr-section-title,
 #social-buttons2-t .btn-social {

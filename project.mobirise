@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 30,
+    "uniqCompNum": 33,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/upaa-logo-128x143.png",
     "noImageResize": "",
@@ -69,7 +69,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/upaa-logo-makeover-2013-fullpage.gif",
+              "src": "@PROJECT_PATH@/assets/images/upaa-logo-2017-copyrights-1400x1399.png",
               "link": "index.html",
               "alt": "",
               "title": "",
@@ -88,7 +88,7 @@
             }
           },
           "title": "Unión Pro Animales Abandonados",
-          "text": "Organización sin fines de lucro con base en Vega Baja, Puerto Rico  ",
+          "text": "Organización sin fines de lucro para la protección animal",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -96,6 +96,10 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#000"
+            },
+            ".lead P": {
+              "font-size": "16px",
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -123,7 +127,7 @@
             "showButton": false
           },
           "title": "¿Quienes somos?",
-          "text": "<p>\"Todo comenzó en el año 2012 cuando hice conciencia de la grave situación de animales abandonados en el pueblo donde resido. Luego de algún tiempo de voluntaria decido crear mi propia organización para coordinar esfuerzos y conseguir recursos que adelantaran nuestra causa. Así nació Union Pro Animales Abandonados de Vega Baja Inc.</p><p><br></p><p>Hay mucho trabajo por hacer en Vega Baja para dar a estos animales el cuidado que merecen. A esta necesidad pretendemos responder con nuestra organización. Somos voluntarios unidos con un propósito humanitario para ayudar a estas indefensas víctimas de la crueldad y desconsideración.Tenemos grandes planes en colaborar y brindar apoyo a santuarios locales, de pueblos cercanos o a personas independientes que realizan la labor de alimentar y cuidar animales realengos para que estén saludables y bien alimentados en espera de ser adoptados.\"</p><p><br></p><p>- Maria A Mejias, Presidenta y fundadora de UPAA VB</p>",
+          "text": "<p>En Vega Baja como en muchos pueblos de Puerto Rico hay un enorme problema  de animales realengos padeciendo de muchas necesidades, víctimas de la indiferencia y el maltrato.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Ante esta realidad pretendemos responder, dentro de nuestras posibilidades, con nuestra organización Union Pro Animales Abandonados V.B*</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">De forma voluntaria y sin ánimo de lucro damos el máximo educando y promoviendo la esterilización de animales.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Nos unimos con un propósito humanitario para fomentar en nuestras comunidades la protección y bienestar animal, somos herramientas de apoyo.&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">\"Nuestra meta es cero animales abandonados y cero animales naciendo para competir por un hogar que quizás jamás llegue.\"</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">- Angelica Mejias,&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Directora ejecutiva / Presidenta UPAA VB</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><i>*Somos organización sin fines de lucro compuesta por profesionales de bienestar animal que trabajamos de forma voluntaria cumpliendo con todos los  reglamentos del gobierno de Puerto Rico.&nbsp;</i></span></p><p><br></p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -169,7 +173,7 @@
           },
           "title1": "Ayudanos a ayudar",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Recaudamos fondos para cubrir los gastos y necesidades de los animales a los que atendemos.<br>",
+          "caption1": "Recaudamos fondos para cubrir los gastos y necesidades de los animales a los que atendemos.&nbsp;100% deducible de su planilla<br>",
           "button1": "<a data-app-btn=\"true\" href=\"http://bit.ly/1RJUz40\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Donar</a>",
           "media2": {
             "iconFont": {
@@ -247,6 +251,44 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-u",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSe7C3f9EfE-nZR7nv9VI-yzDAUBm6hkYpiBONDP2wAP6PFvKQ/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Registrarse</a>",
+          "title": "Campañas de esterilización",
+          "text": "Si desea esterilizar puede llenar el registro en el siguiente enlace tomando en cuenta escribir el correo electrónico y su numero de teléfono correcto para poder contactarle."
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -273,7 +315,7 @@
             "showSubTitle": true
           },
           "title": "FORMA DE CONTACTO",
-          "subtitle": "Queremos saber de usted",
+          "subtitle": "Si quiere saber sobre nuestras charlas educativas o brindarnos su apoyo deje su mensaje.",
           "form": {
             "action": "upaavb@mail.com",
             "alerts": {
@@ -302,6 +344,47 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACTAR</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff",
+              "text-align": "left"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff",
+              "font-size": "19px",
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-w",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#b8312f",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": false,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
+          "title": "NOTA ACLARATORIA",
+          "text": "NO SOMOS ALBERGUE. NO RECOGEMOS ANIMALES"
         },
         {
           "_styles": {
@@ -377,7 +460,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/upaa-logo-makeover-2013-fullpage.gif",
+              "src": "@PROJECT_PATH@/assets/images/upaa_logo_makeover_2013_fullpage.gif",
               "width": 128,
               "link": "",
               "alt": "",
@@ -417,7 +500,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 UPAA. * NOTA ACLARATORIA: NO SOMOS ALBERGUE, NO RECOGEMOS ANIMALES*"
+          "text": "Copyright (c) 2017 UPAA"
         }
       ]
     },
@@ -485,7 +568,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/upaa-logo-makeover-2013-fullpage.gif",
+              "src": "@PROJECT_PATH@/assets/images/upaa_logo_makeover_2013_fullpage.gif",
               "width": 128,
               "link": "",
               "alt": "",
@@ -588,7 +671,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/upaa-logo-makeover-2013-fullpage.gif",
+              "src": "@PROJECT_PATH@/assets/images/upaa_logo_makeover_2013_fullpage.gif",
               "width": 128,
               "link": "",
               "alt": "",
