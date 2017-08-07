@@ -437,12 +437,9 @@ h6,
   font-size: 19px;
   text-align: left;
 }
-#social-buttons2-t .mbr-section-title,
-#social-buttons2-t .btn-social {
+#social-buttons2-x .mbr-section-title,
+#social-buttons2-x .btn-social {
   color: #232323;
-}
-#social-buttons2-t .mbr-section-title {
-  color: #00a885;
 }
 #header3-l .mbr-section-title,
 #header3-l .mbr-section-subtitle {
