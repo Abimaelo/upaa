@@ -26,7 +26,8 @@
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/upaa-logo-128x143.png",
     "noImageResize": "",
-    "google-analytics": ""
+    "google-analytics": "",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -166,9 +167,10 @@
               "name": "heart",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "http://bit.ly/1RJUz40",
               "size": 0,
-              "color": "#b8312f"
+              "color": "#b8312f",
+              "newWindow": true
             }
           },
           "title1": "Ayudanos a ayudar",
@@ -182,9 +184,10 @@
               "name": "rocket",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "proposito.html",
               "size": 0,
-              "color": "#41a85f"
+              "color": "#41a85f",
+              "newWindow": false
             }
           },
           "title2": "Propósito",
@@ -198,9 +201,10 @@
               "name": "megaphone",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "ayudar.html",
               "size": 0,
-              "color": "#41a85f"
+              "color": "#41a85f",
+              "newWindow": false
             }
           },
           "title3": "¿Qué usted puede hacer para ayudar?",
@@ -256,7 +260,7 @@
               "color": "#fff"
             },
             ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -267,11 +271,11 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1250.jpg",
             "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
