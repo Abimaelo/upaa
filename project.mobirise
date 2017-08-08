@@ -402,11 +402,11 @@
           "_name": "social-buttons2",
           "_anchor": "social-buttons2-x",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "4",
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x1333.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": false,
